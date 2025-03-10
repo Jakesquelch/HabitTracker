@@ -1,4 +1,11 @@
 # Ignore Visual Studio files
+HabitTracker.h
+HabitTracker.ico
+HabitTracker.rc
+Resource.h
+framework.h
+small.ico
+targetver.h
 *.sln
 *.vcxproj
 *.vcxproj.filters
@@ -7,14 +14,4 @@
 out/
 build/
 Debug/
-Release/# Ignore Visual Studio files  
-*.sln  
-*.vcxproj  
-*.vcxproj.filters  
-*.vcxproj.user  
-
-.vscode/  
-out/  
-build/  
-Debug/  
 Release/
