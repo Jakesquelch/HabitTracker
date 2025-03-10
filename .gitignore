@@ -1,0 +1,20 @@
+# Ignore Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vscode/
+out/
+build/
+Debug/
+Release/# Ignore Visual Studio files  
+*.sln  
+*.vcxproj  
+*.vcxproj.filters  
+*.vcxproj.user  
+
+.vscode/  
+out/  
+build/  
+Debug/  
+Release/
