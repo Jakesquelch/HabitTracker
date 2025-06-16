@@ -1,0 +1,2 @@
+C:/Users/jakew/Projects/HabitTracker/backend/build/CMakeFiles/edit_cache.dir
+C:/Users/jakew/Projects/HabitTracker/backend/build/CMakeFiles/rebuild_cache.dir
