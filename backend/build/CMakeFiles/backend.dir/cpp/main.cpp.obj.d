@@ -1,7 +1,11 @@
 CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  C:\Users\jakew\Projects\HabitTracker\backend\cpp\main.cpp \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/query_string.h \
+ C:/Users/jakew/Projects/HabitTracker/backend/build/Crow/crow_all.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/cstdio \
+ Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/pstl/pstl_config.h \
  Z:/msys2/mingw64/include/stdio.h \
  Z:/msys2/mingw64/include/corecrt_stdio_config.h \
  Z:/msys2/mingw64/include/corecrt.h Z:/msys2/mingw64/include/_mingw.h \
@@ -12,34 +16,54 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/_mingw_off_t.h \
  Z:/msys2/mingw64/include/swprintf.inl \
  Z:/msys2/mingw64/include/sec_api/stdio_s.h \
- Z:/msys2/mingw64/include/string.h Z:/msys2/mingw64/include/crtdefs.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/cstdlib \
+ Z:/msys2/mingw64/include/stdlib.h \
+ Z:/msys2/mingw64/include/corecrt_wstdlib.h \
+ Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+ Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+ Z:/msys2/mingw64/include/limits.h Z:/msys2/mingw64/include/crtdefs.h \
+ Z:/msys2/mingw64/include/sec_api/stdlib_s.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/stdlib.h \
+ Z:/msys2/mingw64/include/malloc.h \
+ Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+ Z:/msys2/mingw64/include/errno.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/std_abs.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/cstring \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/version.h \
+ Z:/msys2/mingw64/include/string.h \
  Z:/msys2/mingw64/include/sec_api/string_s.h \
+ Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
+ Z:/msys2/mingw64/include/stdint.h \
+ Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+ Z:/msys2/mingw64/include/stddef.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/cstdint \
+ Z:/msys2/mingw64/include/c++/15.1.0/stdexcept \
+ Z:/msys2/mingw64/include/c++/15.1.0/exception \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/exception.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/exception_ptr.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/exception_defines.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/cxxabi_init_exception.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/typeinfo \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/hash_bytes.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/new \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/move.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/type_traits \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/nested_exception.h \
  Z:/msys2/mingw64/include/c++/15.1.0/string \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
- Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
- Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \
- Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
- Z:/msys2/mingw64/include/c++/15.1.0/pstl/pstl_config.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stringfwd.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/memoryfwd.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/char_traits.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/postypes.h \
  Z:/msys2/mingw64/include/c++/15.1.0/cwchar \
  Z:/msys2/mingw64/include/wchar.h \
- Z:/msys2/mingw64/include/corecrt_wstdlib.h \
  Z:/msys2/mingw64/include/corecrt_wctype.h \
  Z:/msys2/mingw64/include/_mingw_stat64.h \
  Z:/msys2/mingw64/include/sec_api/wchar_s.h \
- Z:/msys2/mingw64/include/c++/15.1.0/type_traits \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/version.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/allocator.h \
  Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/new_allocator.h \
- Z:/msys2/mingw64/include/c++/15.1.0/new \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/exception.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/functexcept.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/exception_defines.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/move.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/cpp_type_traits.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/localefwd.h \
  Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++locale.h \
@@ -77,36 +101,18 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_construct.h \
  Z:/msys2/mingw64/include/c++/15.1.0/string_view \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/functional_hash.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/hash_bytes.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/string_view.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/ext/string_conversions.h \
- Z:/msys2/mingw64/include/c++/15.1.0/cstdlib \
- Z:/msys2/mingw64/include/stdlib.h \
- Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
- Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
- Z:/msys2/mingw64/include/limits.h \
- Z:/msys2/mingw64/include/sec_api/stdlib_s.h \
- Z:/msys2/mingw64/include/c++/15.1.0/stdlib.h \
- Z:/msys2/mingw64/include/malloc.h \
- Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
- Z:/msys2/mingw64/include/errno.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/std_abs.h \
- Z:/msys2/mingw64/include/c++/15.1.0/cstdio \
  Z:/msys2/mingw64/include/c++/15.1.0/cerrno \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/charconv.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/basic_string.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/memory_resource.h \
  Z:/msys2/mingw64/include/c++/15.1.0/cstddef \
- Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
- Z:/msys2/mingw64/include/stddef.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/uses_allocator.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/uses_allocator_args.h \
  Z:/msys2/mingw64/include/c++/15.1.0/tuple \
- Z:/msys2/mingw64/include/c++/15.1.0/vector \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_uninitialized.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_vector.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_bvector.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/vector.tcc \
+ Z:/msys2/mingw64/include/c++/15.1.0/functional \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/std_function.h \
  Z:/msys2/mingw64/include/c++/15.1.0/unordered_map \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/unordered_map.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/hashtable.h \
@@ -115,15 +121,16 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/enable_special_members.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/node_handle.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/erase_if.h \
- Z:/msys2/mingw64/include/c++/15.1.0/iostream \
- Z:/msys2/mingw64/include/c++/15.1.0/ostream \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/ostream.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/vector \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_uninitialized.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_vector.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_bvector.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/vector.tcc \
+ Z:/msys2/mingw64/include/c++/15.1.0/array \
+ Z:/msys2/mingw64/include/c++/15.1.0/compare \
+ Z:/msys2/mingw64/include/c++/15.1.0/sstream \
+ Z:/msys2/mingw64/include/c++/15.1.0/istream \
  Z:/msys2/mingw64/include/c++/15.1.0/ios \
- Z:/msys2/mingw64/include/c++/15.1.0/exception \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/exception_ptr.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/cxxabi_init_exception.h \
- Z:/msys2/mingw64/include/c++/15.1.0/typeinfo \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/nested_exception.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/ios_base.h \
  Z:/msys2/mingw64/include/c++/15.1.0/ext/atomicity.h \
  Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr.h \
@@ -145,7 +152,6 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/locale_classes.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/system_error \
  Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/error_constants.h \
- Z:/msys2/mingw64/include/c++/15.1.0/stdexcept \
  Z:/msys2/mingw64/include/c++/15.1.0/streambuf \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/streambuf.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/basic_ios.h \
@@ -157,36 +163,10 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/ctype_inline.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/locale_facets.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/basic_ios.tcc \
+ Z:/msys2/mingw64/include/c++/15.1.0/ostream \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/ostream.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/ostream.tcc \
- Z:/msys2/mingw64/include/c++/15.1.0/istream \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/istream.tcc \
- Z:/msys2/mingw64/include/c++/15.1.0/memory \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_tempbuf.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_raw_storage_iter.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/align.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/unique_ptr.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/shared_ptr.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/shared_ptr_base.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/allocated_ptr.h \
- Z:/msys2/mingw64/include/c++/15.1.0/ext/concurrence.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/shared_ptr_atomic.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/atomic_base.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/atomic_lockfree_defines.h \
- Z:/msys2/mingw64/include/c++/15.1.0/backward/auto_ptr.h \
- Z:/msys2/mingw64/include/c++/15.1.0/pstl/glue_memory_defs.h \
- Z:/msys2/mingw64/include/c++/15.1.0/pstl/execution_defs.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/http_parser_merged.h \
- Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
- Z:/msys2/mingw64/include/stdint.h Z:/msys2/mingw64/include/assert.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/common.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/utility.h \
- Z:/msys2/mingw64/include/c++/15.1.0/cstdint \
- Z:/msys2/mingw64/include/c++/15.1.0/cstring \
- Z:/msys2/mingw64/include/c++/15.1.0/functional \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/std_function.h \
- Z:/msys2/mingw64/include/c++/15.1.0/array \
- Z:/msys2/mingw64/include/c++/15.1.0/compare \
- Z:/msys2/mingw64/include/c++/15.1.0/sstream \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/sstream.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/random \
  Z:/msys2/mingw64/include/c++/15.1.0/cmath \
@@ -217,12 +197,13 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/c++/15.1.0/numeric \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_numeric.h \
  Z:/msys2/mingw64/include/c++/15.1.0/pstl/glue_numeric_defs.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/pstl/execution_defs.h \
  Z:/msys2/mingw64/include/c++/15.1.0/algorithm \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_algo.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/algorithmfwd.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_heap.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_tempbuf.h \
  Z:/msys2/mingw64/include/c++/15.1.0/pstl/glue_algorithm_defs.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/settings.h \
  Z:/msys2/mingw64/include/c++/15.1.0/filesystem \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/fs_fwd.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/chrono.h \
@@ -240,11 +221,13 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/c++/15.1.0/iomanip \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/quoted_string.h \
  Z:/msys2/mingw64/include/c++/15.1.0/codecvt \
+ Z:/msys2/mingw64/include/c++/15.1.0/ext/concurrence.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/shared_ptr.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/shared_ptr_base.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/allocated_ptr.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/unique_ptr.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/fs_dir.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/fs_ops.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/ci_map.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/TinySHA1.hpp \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/socket_adaptors.h \
  Z:/msys2/mingw64/include/asio.hpp \
  Z:/msys2/mingw64/include/asio/any_completion_executor.hpp \
  Z:/msys2/mingw64/include/asio/detail/config.hpp \
@@ -264,12 +247,21 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/asio/execution/any_executor.hpp \
  Z:/msys2/mingw64/include/asio/detail/assert.hpp \
  Z:/msys2/mingw64/include/c++/15.1.0/cassert \
+ Z:/msys2/mingw64/include/assert.h \
  Z:/msys2/mingw64/include/asio/detail/atomic_count.hpp \
  Z:/msys2/mingw64/include/c++/15.1.0/atomic \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/atomic_base.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/atomic_lockfree_defines.h \
  Z:/msys2/mingw64/include/asio/detail/cstddef.hpp \
  Z:/msys2/mingw64/include/asio/detail/executor_function.hpp \
  Z:/msys2/mingw64/include/asio/detail/handler_alloc_helpers.hpp \
  Z:/msys2/mingw64/include/asio/detail/memory.hpp \
+ Z:/msys2/mingw64/include/c++/15.1.0/memory \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_raw_storage_iter.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/align.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/shared_ptr_atomic.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/backward/auto_ptr.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/pstl/glue_memory_defs.h \
  Z:/msys2/mingw64/include/asio/detail/cstdint.hpp \
  Z:/msys2/mingw64/include/asio/detail/throw_exception.hpp \
  Z:/msys2/mingw64/include/asio/detail/recycling_allocator.hpp \
@@ -1015,40 +1007,28 @@ CMakeFiles/backend.dir/cpp/main.cpp.obj: \
  Z:/msys2/mingw64/include/asio/write_at.hpp \
  Z:/msys2/mingw64/include/asio/impl/write_at.hpp \
  Z:/msys2/mingw64/include/asio/version.hpp \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/json.h \
- Z:/msys2/mingw64/include/c++/15.1.0/cfloat \
- Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/float.h \
- Z:/msys2/mingw64/include/float.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/returnable.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/logging.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/mustache.h \
- Z:/msys2/mingw64/include/c++/15.1.0/fstream \
- Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/basic_file.h \
- Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++io.h \
- Z:/msys2/mingw64/include/c++/15.1.0/bits/fstream.tcc \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/task_timer.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/iostream \
  Z:/msys2/mingw64/include/c++/15.1.0/map \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_tree.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_map.h \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_multimap.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/http_request.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/websocket.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/TinySHA1.hpp \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/parser.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/http_response.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/mime_types.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/multipart.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/exceptions.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/multipart_view.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/cfloat \
+ Z:/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/float.h \
+ Z:/msys2/mingw64/include/float.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/fstream \
+ Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/basic_file.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++io.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/fstream.tcc \
  Z:/msys2/mingw64/include/c++/15.1.0/charconv \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/routing.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/middleware.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/middleware_context.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/compression.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/http_connection.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/compression.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/http_server.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/version.h \
- C:/Users/jakew/Projects/HabitTracker/backend/Crow/include/crow/app.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/unordered_set \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/unordered_set.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/set \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_set.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_multiset.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/queue \
+ Z:/msys2/mingw64/include/c++/15.1.0/deque \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_deque.h \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/deque.tcc \
+ Z:/msys2/mingw64/include/c++/15.1.0/bits/stl_queue.h \
  Z:/msys2/mingw64/include/c++/15.1.0/thread \
  Z:/msys2/mingw64/include/c++/15.1.0/bits/this_thread_sleep.h

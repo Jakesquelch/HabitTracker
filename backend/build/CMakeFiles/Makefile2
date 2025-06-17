@@ -104,7 +104,7 @@ Crow/clean: Crow/CMakeFiles/uninstall.dir/clean
 # Target rules for target CMakeFiles/backend.dir
 
 # All Build rule for target.
-CMakeFiles/backend.dir/all:
+CMakeFiles/backend.dir/all: Crow/CMakeFiles/crow_amalgamated.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\backend.dir\build.make CMakeFiles/backend.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\backend.dir\build.make CMakeFiles/backend.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\jakew\Projects\HabitTracker\backend\build\CMakeFiles --progress-num=1,2 "Built target backend"
@@ -112,7 +112,7 @@ CMakeFiles/backend.dir/all:
 
 # Build rule for subdir invocation for target.
 CMakeFiles/backend.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jakew\Projects\HabitTracker\backend\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jakew\Projects\HabitTracker\backend\build\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/backend.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jakew\Projects\HabitTracker\backend\build\CMakeFiles 0
 .PHONY : CMakeFiles/backend.dir/rule
@@ -122,7 +122,7 @@ backend: CMakeFiles/backend.dir/rule
 .PHONY : backend
 
 # codegen rule for target.
-CMakeFiles/backend.dir/codegen:
+CMakeFiles/backend.dir/codegen: Crow/CMakeFiles/crow_amalgamated.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\backend.dir\build.make CMakeFiles/backend.dir/codegen
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\jakew\Projects\HabitTracker\backend\build\CMakeFiles --progress-num=1,2 "Finished codegen for target backend"
 .PHONY : CMakeFiles/backend.dir/codegen

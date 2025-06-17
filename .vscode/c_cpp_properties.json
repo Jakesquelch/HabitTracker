@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/backend/Crow/include"
+                "${workspaceFolder}/backend/Crow/include",
+                "${workspaceFolder}/backend/build/Crow"
             ],
             "defines": [
                 "_DEBUG",
